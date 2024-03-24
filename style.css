@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: blueviolet;
+}
+
+.btn{
+    width: 200px;
+    height: 40px;
+    font-size: large;
+    border: 5px solid blueviolet;
+    border-radius: 25cm;
+    font-weight: bold;
+}
+.btn:hover{
+    color: chocolate;
+    background-color: aquamarine;
+}
